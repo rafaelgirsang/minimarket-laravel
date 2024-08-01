@@ -1,0 +1,63 @@
+@media (min-width: 600px) {
+    .d-flex-search {
+        width: 400px;
+    }
+}
+
+.input-btn {
+    border-top-right-radius: 0rem;
+    border-bottom-right-radius: 0rem;
+    margin-right: -5px;
+}
+.btn-input {
+    border-top-left-radius: 0rem;
+    border-bottom-left-radius: 0rem;
+}
+
+.tb-head {
+    background-color: rgb(116, 215, 255);
+    text-align: center;
+}
+.table tbody td {
+    vertical-align: middle;
+    padding: 0.5rem;
+    
+}
+
+.table thead th {
+    vertical-align: middle;
+    padding: 0.5rem;
+    /*border-bottom: 2px solid #f4f5f8;*/
+}
+
+.card-header-costum {
+    min-height: 0px !important;
+    height: 50px;
+}
+
+.card-header-form {
+    min-height: 50px !important;
+}
+.card-footer-form {
+    min-height: 45px !important;
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
+
+.textarea-costum {
+    min-height: 0px !important;
+}
+
+/* .toast {
+    autohide: false;
+} */
+
+.badge {
+    display: inline-block;
+}
+
+
+
+/* .form-control{
+    color: black !important; font-weight:bold !important
+} */
